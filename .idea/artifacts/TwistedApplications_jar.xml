@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TwistedApplications:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TwistedApplications_jar</output-path>
+    <root id="archive" name="TwistedApplications.jar">
+      <element id="module-output" name="TwistedApplications" />
+    </root>
+  </artifact>
+</component>
