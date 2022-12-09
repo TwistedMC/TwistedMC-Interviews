@@ -1,4 +1,4 @@
 name: TwistedApplications
-main:
-version:
+main: com.twistedmcstudios.applications.Main
+version: 1.0.0
 authors: [shastagrande,MCEpic_Nation]
